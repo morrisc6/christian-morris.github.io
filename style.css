@@ -1,0 +1,20 @@
+:root {
+    --bg: #34113F;
+}
+
+.jaro-paragraph {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1;
+  font-style: normal;
+  font-size: 4rem;
+}
+
+body {
+    background-color: var(--bg);
+}
+
+body h1 {
+    text-align: center;
+    color: white;
+}
